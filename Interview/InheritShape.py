@@ -1,4 +1,4 @@
-class Shape():
+class Shape:
     def Values(self):
         print("This is the base class")
         self.PI=3.14
